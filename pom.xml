@@ -10,7 +10,7 @@
 
 	<!-- Jar版本管理 -->
 	<properties>
-		<springframework>4.0.2.RELEASE</springframework>
+		<springframework>5.3.18</springframework>
 		<c3p0>0.9.1.2</c3p0>
 		<log4j>1.2.17</log4j>
 		<jstl>1.2</jstl>
